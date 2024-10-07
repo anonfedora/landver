@@ -3,7 +3,7 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": true,
+  "commit": false,
   "commitType": "docs",
   "commitConvention": "angular",
   "contributors": [
